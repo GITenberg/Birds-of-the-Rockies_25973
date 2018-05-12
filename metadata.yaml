@@ -15,6 +15,8 @@ description: The Shelf2Life Nature Studies Collection is a grouping of pre-1923 
   focusing on the natural world and environment. Ranging from landscape surveys and
   field guides of flora and fauna to scientific studies of botany, biology and the
   environment.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25973#Birds-of-the-Rockies
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Natural History
